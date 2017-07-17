@@ -1,10 +1,12 @@
 url: http://bryanhaggerty.com/blog/
 description: ""
 name: "Blog of Bryan Haggerty, User experience designer"
-permalink: /:year/:month/:title/
+permalink: /:categories/:year/:month/:title/
 paginate: 5
 
 baseurl: http://bryanhaggerty.com/blog/
+
+paginate_path: "/blog/page:num"
 
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
