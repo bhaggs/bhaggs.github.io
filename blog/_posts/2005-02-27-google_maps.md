@@ -12,7 +12,7 @@ categories:
 Google&#8217;s recently released Maps beta is likely to be considered more innovative than their GMail product. Especially when looking at the markets for each product. While GMail provided an unheard of, at the time, 1gb of storage, the competition quickly responded. This isn&#8217;t to say that GMail didn&#8217;t have an assortment of other great features, but with [Google Maps](http://maps.google.com) they have completely changed the online map paradigm.
 
 <p class="figure-centered">
-  <img src="http://www.losingcontext.com/blog/wp-content/uploads/legacy/gmaps-overview.jpg" alt="Google Maps Overview" height="210" width="450" /><br /> Figure 1. The new Google Maps.
+  <img src="blog/wp-content/uploads/legacy/gmaps-overview.jpg" alt="Google Maps Overview" height="210" width="450" /><br /> Figure 1. The new Google Maps.
 </p>
 
 One of the major drawbacks of map services such as [MSN Maps](http://maps.msn.com) and [Mapblast](http://www.mapblast.com) is merely due to the nature of how the web works, a lack of continuous communication between client and server. Using typical online maps is like using a real map that you are not allowed to completely unfold, requiring requests to the server to unfold another piece of the map. Through technologies such as _Ajax_ (XMLHttpRequest) Google Maps are draggable and easy to work with, without the need for page reloads. You could scroll from the East Coast to the West Coast if you so desired. When page reloads occur it is not uncommon for users to lose their location focus, requiring users to have to waste cognitive resources to reorient themselves.
@@ -24,7 +24,7 @@ A feature that will probably go unnoticed by many is the dynamic resizing of the
 Just like in GMail, Google has added keyboard shortcuts for Google Maps. This is especially nice for scrolling around a map, by way of the keyboard&#8217;s arrow keys.
 
 <p class="figure-right">
-  <img src="http://www.losingcontext.com/blog/wp-content/uploads/legacy/gmaps-local-search.jpg" alt="Google Maps Local Search Bubble" height="237" width="212" /><br /> Figure 2. Local Search Bubble.
+  <img src="blog/wp-content/uploads/legacy/gmaps-local-search.jpg" alt="Google Maps Local Search Bubble" height="237" width="212" /><br /> Figure 2. Local Search Bubble.
 </p>
 
 Location bubbles provide the user with a direct one to one connection between possible actions and the object which they will be applied to. This is currently only used for directions but could easily include _Local Search_ features. For example as shown in Figure 2, _Find great sushi near this location_

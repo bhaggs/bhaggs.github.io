@@ -28,7 +28,7 @@ This is not to say that specific directions are not needed, but that they can be
 Figure 1 displays a modified version of Google Maps featuring support for landmarks. Using the example provided earlier, the user is now able to get a visual representation of the landmark, _Flann O&#8217;Brien&#8217;s_. Thus allowing the user to create relationships between elements of the enviroment.
 
 <p class="figure-centered">
-  <img src="http://www.losingcontext.com/blog/wp-content/uploads/legacy/gmaps-landmarks.jpg" alt="Google Maps with a landmark displayed" height="301" width="450" /><br /> Figure 1. <em>Google Maps with Landmarks</em>
+  <img src="blog/wp-content/uploads/legacy/gmaps-landmarks.jpg" alt="Google Maps with a landmark displayed" height="301" width="450" /><br /> Figure 1. <em>Google Maps with Landmarks</em>
 </p>
 
 #### Potential Revenue Source
