@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<title>{{ page.title }} - </title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Language" content="en-us" />
+	<meta name="robots" content="all" />
+	<meta name="author" content="Bryan Haggerty." />
+	<meta name="Copyright" content="Copyright (c) 2004-{{ site.time | date: "%Y" }} Bryan Haggerty." />
+
+	<meta name="description" content="bryanhaggerty.com: the blog of Bryan Haggerty, user experience designer." />
+	<meta name="keywords" content="bryan haggerty, bryan, haggerty, user experience, usability, hci, ui, ia, information architecture, mobile, iphone, web standards, CSS, XHTML, web, design, web design, web development, San Francisco, California" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}" type="text/css" media="screen" />
+	<!-- <link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> RSS Feed" href="<?php bloginfo('rss2_url'); ?>" /> -->
+	<link rel="icon" type="image/gif" href="{{ "/images/favicon.gif" | relative_url }}"" />
+	
+	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<script type="text/javascript">
+	//<![CDATA[
+		var gaJsHost = (("https:" == document.location.protocol) 
+		? "https://ssl." : "http://www."); 
+		document.write("\<script src='" + gaJsHost 
+		+ "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
+	//]]>
+	</script> 
+	<script type="text/javascript">
+	//<![CDATA[
+		var pageTracker = _gat._getTracker("UA-81287-8");
+		pageTracker._initData(); 
+		pageTracker._trackPageview();
+	//]]>
+	</script>
+	
+</head>
+<body>
+<div id="container">
+	<div id="header">
+		<h1><a href="{{ site.baseurl }}">Bryan Haggerty</a></h1>
+		<em>San Francisco</em>
+	</div>
+
+	<div id="content">
+	{{ content }}
+	</div>
+
+	<div id="pagination">
+		{% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page_path }}" class="previous">Older &rarr;</a>
+		{% endif %}
+		
+		{% if paginator.next_page %}
+		<a href="{{ paginator.next_page_path }}" class="next">&larr; Newer</a>
+		{% endif %}
+	</div>
+</div>
+
+{% include footer.html %}
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+url: http://bryanhaggerty.com/blog/
+description: ""
+name: "Blog of Bryan Haggerty, User experience designer"
+permalink: /:year/:month/:title/
+paginate: 5
