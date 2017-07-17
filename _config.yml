@@ -3,3 +3,9 @@ description: ""
 name: "Blog of Bryan Haggerty, User experience designer"
 permalink: /:year/:month/:title/
 paginate: 5
+
+baseurl: http://bryanhaggerty.com/blog/
+
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
