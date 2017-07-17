@@ -9,7 +9,7 @@ permalink: /2004/07/off_to_buffalo/
 categories:
   - Travel
 ---
-<img alt="A poor representation of Buffalo" src="/blog/images/buffalo.jpg" width="200" height="138" border="0" class="image-right" />Neera and I are heading out to [Buffalo](http://www.ci.buffalo.ny.us/ "Learn more about Buffalo") New York for the weekend. For the most part just a trip to hang out, get out of Boston, and for her to visit home. The big thing on my mind is the wings though. You would think that the wing recipe could be replicated, but none can come close to authentic _Buffalo Wings_.
+<img alt="A poor representation of Buffalo" src="/blog/wp-content/uploads/legacy/buffalo.jpg" width="200" height="138" border="0" class="image-right" />Neera and I are heading out to [Buffalo](http://www.ci.buffalo.ny.us/ "Learn more about Buffalo") New York for the weekend. For the most part just a trip to hang out, get out of Boston, and for her to visit home. The big thing on my mind is the wings though. You would think that the wing recipe could be replicated, but none can come close to authentic _Buffalo Wings_.
 
 Our itinerary is pretty much non-existant, which is totally fine with me. Although we are thinking we might head up to Toronto for a day.
 

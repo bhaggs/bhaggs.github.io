@@ -9,7 +9,7 @@ permalink: /2004/10/myneu_problems/
 categories:
   - User Experience
 ---
-<img src="/blog/images/myneu-icons.gif" alt="MyNeu Icons" class="image-right" border="0" height="201" width="291" />In user interface design icons play a major role, as they provide the user with a simple visual cue intended to easily convey the meaning of a feature or action at a glance. Icon design in web applications is especially paramount as web users typically scan pages as opposed to actively reading them. The choice of icons can greatly affect how users interact with a web application and ultimately the usability of such an application.
+<img src="/blog/wp-content/uploads/legacy/myneu-icons.gif" alt="MyNeu Icons" class="image-right" border="0" height="201" width="291" />In user interface design icons play a major role, as they provide the user with a simple visual cue intended to easily convey the meaning of a feature or action at a glance. Icon design in web applications is especially paramount as web users typically scan pages as opposed to actively reading them. The choice of icons can greatly affect how users interact with a web application and ultimately the usability of such an application.
 
 The recent design update of [MyNeu](http://www.myneu.neu.edu/ "Visit MyNeu") brings a new set of icons for the web application&#8217;s utility navigation (Email, Calendar, My Account, Logout, and Help). Unfortunately these new icons are a step backwards for MyNeu and I&#8217;ll take a look at each one to examine the pros and cons.
 

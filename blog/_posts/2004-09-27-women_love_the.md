@@ -9,7 +9,7 @@ permalink: /2004/09/women_love_the/
 categories:
   - Technology
 ---
-[<img src="/blog/images/ipod-mini.jpg" alt="iPod mini" class="image-right" border="0" height="257" width="138" />](http://www.apple.com/ipodmini/ "Learn more about the iPod mini")No where else have I seen more [iPod](http://www.apple.com/ipod/ "Learn more about the iPod") [Minis](http://www.apple.com/ipodmini/ "Learn more about the iPod mini") than on the women of [Northeastern](http://www.neu.edu "Learn more about Northeastern University") campus.
+[<img src="/blog/wp-content/uploads/legacy/ipod-mini.jpg" alt="iPod mini" class="image-right" border="0" height="257" width="138" />](http://www.apple.com/ipodmini/ "Learn more about the iPod mini")No where else have I seen more [iPod](http://www.apple.com/ipod/ "Learn more about the iPod") [Minis](http://www.apple.com/ipodmini/ "Learn more about the iPod mini") than on the women of [Northeastern](http://www.neu.edu "Learn more about Northeastern University") campus.
 
 Why has the iPod mini become such a success when all the technology pundits hailed it an instant failure when Apple announced it?
 

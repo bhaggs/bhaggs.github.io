@@ -14,7 +14,7 @@ Today I finished my last exam of my undergraduate career. Next Saturday, my five
 #### A Brief Look Back
 
 <p class="figure-right">
-  <img src="/blog/images/freshman-bryan.jpg" alt="Self portrait of Bryan Haggerty, freshman year of college" height="204" width="204" /><br /> <em>Me during my freshman year</em>
+  <img src="/blog/wp-content/uploads/legacy/freshman-bryan.jpg" alt="Self portrait of Bryan Haggerty, freshman year of college" height="204" width="204" /><br /> <em>Me during my freshman year</em>
 </p>
 
 In the fall of 2000, when I brought that first cart load into [Stetson West](http://www.housing.neu.edu/see_stetsonW.html), 2005 seemed a great ways off. Much like today, seeing the banner for &#8220;Welcome Class of 2010&#8221; seems like a far off time. I look at this picture of me taken for COM1121 (freshman intro class for Co-Op) and am shocked at how young I feel like I look&#8211;considering how these past five years seem like such a blur at this point. (For comparison here is a [recent photo](/about/index.php))

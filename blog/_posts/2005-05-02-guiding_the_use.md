@@ -14,7 +14,7 @@ As a [PayPal](http://www.paypal.com) user I frequently use it to pay for product
 The form request in question is displayed below in Figure 1.
 
 <p class="figure-centered">
-  <img src="/blog/images/godaddy-original.gif" alt="An ambiguous form request" height="63" width="538" /><br /> Figure 1. <em>Ambiguous form request at GoDaddy</em>
+  <img src="/blog/wp-content/uploads/legacy/godaddy-original.gif" alt="An ambiguous form request" height="63" width="538" /><br /> Figure 1. <em>Ambiguous form request at GoDaddy</em>
 </p>
 
 My first inclination about this form request was that the system needed a name which they would use to identify my _PayPal_ account&#8211;and it wanted it to be friendly! Unsure of what exactly this meant, I simply re-entered my name.
@@ -24,13 +24,13 @@ Upon further research, the form request is asking the user to give the _PayPal_ 
 Contextual help the is simplest and quickest way to assist users when they are unsure about something. Using contextual help provides the user with specific and concise information about the request in question. Displayed below in Figures 2 and 3 are two simple contextual help implementations for the _GoDaddy_ order form.
 
 <p class="figure-centered">
-  <img src="/blog/images/godaddy-example.gif" alt="Form request with example contextual help" height="63" width="538" /><br /> Figure 2. <em>Example contextual help</em>
+  <img src="/blog/wp-content/uploads/legacy/godaddy-example.gif" alt="Form request with example contextual help" height="63" width="538" /><br /> Figure 2. <em>Example contextual help</em>
 </p>
 
 In Figure 2 the user is guided by the presentation of example responses. This method utilizes a limited amount of screen real estate and conveys the intended meaning of the request concisely. The downside of this method is that it cannot provide a more in depth description, which depending on the ambiguity of the request, some users may require.
 
 <p class="figure-centered">
-  <img src="/blog/images/godaddy-what.gif" alt="Form request with 'What's This' contextual help link" height="63" width="538" /><br /> Figure 3. <em>Contextual help through &#8220;What&#8217;s This&#8221; link</em>
+  <img src="/blog/wp-content/uploads/legacy/godaddy-what.gif" alt="Form request with 'What's This' contextual help link" height="63" width="538" /><br /> Figure 3. <em>Contextual help through &#8220;What&#8217;s This&#8221; link</em>
 </p>
 
 Figure 3 provides a method which handles the shortcoming of the example method by offering a &#8220;What&#8217;s This&#8221; link, which provides a supplementary page containing additional information unconstrained by screen real estate. Typically upon pressing the link the user is presented with a new window featuring a deeper explanation of the request. One of the drawbacks of this method is that the user is required to manage multiple windows, which can hinder the intended goal by increasing the cognitive load.

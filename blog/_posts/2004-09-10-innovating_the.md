@@ -7,11 +7,11 @@ layout: post
 guid: http://beta.losingcontext.com/blog/2004/09/innovating_the_mobile_phone.php
 permalink: /2004/09/innovating_the/
 "twitter:image":
-  - http://bryanhaggerty.com/blog/images/nokia-hs-13w.jpg
+  - http://bryanhaggerty.com/blog/wp-content/uploads/legacy/nokia-hs-13w.jpg
 categories:
   - Technology
 ---
-[<img src="/blog/images/nokia-hs-13w.jpg" alt="Nokia HS-13w" class="image-right" border="0" height="298" width="163" />](http://www.nokia.com/nokia/0,,62750,00.html "Read the press release")About a year ago I had come up with an idea where your watch communicated with your mobile phone, via bluetooth, to display information such as caller id. The reasoning is that I hate having to pull out my mobile phone all the time to see who is calling. I also frequently leave my phone at my desk which sometimes puts me out of range to hear the phone or forces me to run to my phone just to see that it is a phone call that I don&#8217;t want to take.
+[<img src="/blog/wp-content/uploads/legacy/nokia-hs-13w.jpg" alt="Nokia HS-13w" class="image-right" border="0" height="298" width="163" />](http://www.nokia.com/nokia/0,,62750,00.html "Read the press release")About a year ago I had come up with an idea where your watch communicated with your mobile phone, via bluetooth, to display information such as caller id. The reasoning is that I hate having to pull out my mobile phone all the time to see who is calling. I also frequently leave my phone at my desk which sometimes puts me out of range to hear the phone or forces me to run to my phone just to see that it is a phone call that I don&#8217;t want to take.
 
 None of the major mobile phone makers have seemed to come up with this idea&#8211;most haven&#8217;t even put bluetooth in their phones.
 

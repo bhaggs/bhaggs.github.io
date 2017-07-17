@@ -18,11 +18,11 @@ The visualization of varying font sizes becomes almost useless when viewing a ta
 By using a gradient of color in addition to varying font sizes we can bring more depth to the tag cloud and augment its ability to emphasize popular tags (Figure 2). The variations in color almost give the tag cloud a 3D representation, pushing the popular tags to the front while de-emphaszing the less popular tags.
 
 <p class="figure-centered">
-  <img src="/blog/images/flickr-tags-normal.gif" alt="Tag cloud with normal varying font sizes visualization" height="516" width="450" /><br /> Figure 1. <em>Current Flickr tag cloud with varying font sizes representing popularity</em>
+  <img src="/blog/wp-content/uploads/legacy/flickr-tags-normal.gif" alt="Tag cloud with normal varying font sizes visualization" height="516" width="450" /><br /> Figure 1. <em>Current Flickr tag cloud with varying font sizes representing popularity</em>
 </p>
 
 <p class="figure-centered">
-  <img src="/blog/images/flickr-tags-gradient.gif" alt="Tag cloud with normal varying font sizes and varying colors visualization" height="516" width="450" /><br /> Figure 2. <em>Modified Flickr tag cloud with varying font sizes and colors representing popularity</em>
+  <img src="/blog/wp-content/uploads/legacy/flickr-tags-gradient.gif" alt="Tag cloud with normal varying font sizes and varying colors visualization" height="516" width="450" /><br /> Figure 2. <em>Modified Flickr tag cloud with varying font sizes and colors representing popularity</em>
 </p>
 
 The traditional Flickr tag cloud works well for lists with few elements, I don&#8217;t think the addition of color would provide significant improvements for such tag clouds. There seems to be a threshold where merely using font sizes is not enough and color could be added to assist.

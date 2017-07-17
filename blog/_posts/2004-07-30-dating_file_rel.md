@@ -9,7 +9,7 @@ permalink: /2004/07/dating_file_rel/
 categories:
   - Work
 ---
-[<img src="/blog/images/new-tdf.jpg" alt="The Dating File Revamped" class="image-right" border="0" height="177" width="200" />](http://www.thedatingfile.com "Visit The Dating File.com") [FourSedgewick Interactive](http://www.foursedgewick.com "Visit the FourSedgewick Interactive web site") has been hard at work revamping [The Dating File](http://www.thedatingfile.com "Visit The Dating File.com") and bringing it back to life. After a long hiatus we&#8217;re ready to bring the site back with a souped up engine.
+[<img src="/blog/wp-content/uploads/legacy/new-tdf.jpg" alt="The Dating File Revamped" class="image-right" border="0" height="177" width="200" />](http://www.thedatingfile.com "Visit The Dating File.com") [FourSedgewick Interactive](http://www.foursedgewick.com "Visit the FourSedgewick Interactive web site") has been hard at work revamping [The Dating File](http://www.thedatingfile.com "Visit The Dating File.com") and bringing it back to life. After a long hiatus we&#8217;re ready to bring the site back with a souped up engine.
 
 The release brings along a new standards compliant design featuring XHTML 1.0 Transitional and CSS 2. As well as prominent use of <acronym title="Portable Network Graphics">PNGs</acronym> and alpha-transparencies. In order to discuss the benefits of standards compliant design I&#8217;ve provided a bit of analysis between the version 4 site and the newly released version 5.
 

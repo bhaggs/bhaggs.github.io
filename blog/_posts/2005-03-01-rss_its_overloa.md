@@ -26,7 +26,7 @@ There has been talk about the methods by which a user subscribes to an RSS feed.
 The only reason I&#8217;m leaning more towards the Web browser as the RSS aggregator is because of the realization of how I use my own news aggregator. Originally, I had a few subscriptions and relegated my news aggregator to a small window, shown in Figure 1, which I checked occasionally. Over time I have expanded the news aggregator to a size larger than my Web browser window. I began to more frequently use my news aggregator as a Web browser, even downloading files and checking email in it.
 
 <p class="figure-centered">
-  <img src="http://www.losingcontext.com/blog/images/rss-news-aggregators.jpg" alt="News Aggregator Progression" height="212" width="500" /><br /> Figure 1. Progression of the News Aggregator
+  <img src="http://www.losingcontext.com/blog/wp-content/uploads/legacy/rss-news-aggregators.jpg" alt="News Aggregator Progression" height="212" width="500" /><br /> Figure 1. Progression of the News Aggregator
 </p>
 
 [FireFox](http://www.getfirefox.com) has limited RSS capabilities and Apple&#8217;s forthcoming [Safari RSS](http://www.apple.com/macosx/tiger/safari.html) doesn&#8217;t seem to go all the way either, for me at least. But, I do think these implementations are a great simple way to get average users into the RSS technology. So this does leave an open window for the current news aggregators who will continue to innovate through things such as _Podcasting_ and features for advanced users.

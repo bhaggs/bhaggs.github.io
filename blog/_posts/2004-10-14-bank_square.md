@@ -10,7 +10,7 @@ categories:
   - Etc.
 ---
 <p class="figure-centered">
-  <img alt="Harvard Square Banks" src="http://www.losingcontext.com/blog/images/harvard-bank-map.jpg" width="450" height="177" border="0" /><br /> Figure 1. <em>Map of Banks in Harvard Square</em>
+  <img alt="Harvard Square Banks" src="http://www.losingcontext.com/blog/wp-content/uploads/legacy/harvard-bank-map.jpg" width="450" height="177" border="0" /><br /> Figure 1. <em>Map of Banks in Harvard Square</em>
 </p>
 
 Since my term ended at [Harvard](http://www.harvard.edu) my time in the [Harvard Square](http://www.harvardsquare.com "Get information about happenings in the square") area has dropped off significantly. Recently I ventured back through to meet up with some old co-workers. I was literally floored by what I saw. Harvard Square is becoming so commercialized and now exists mainly as a marketing tool for companies.
