@@ -2,7 +2,7 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
 <head>
-	<title>{{ page.title }} - </title>
+	<title>{{ page.title }} - Blog of Bryan Haggerty, User experience designer</title>
 	
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<meta http-equiv="Content-Language" content="en-us" />
@@ -18,7 +18,7 @@
 	<meta name="twitter:creator" value="@bhaggs">
 	<meta name="twitter:url" value="{{ page.post_url }}">
 	<meta name="twitter:title" value="{{ page.title }}">
-	<meta name="twitter:description" value="">
+	<meta name="twitter:description" value="{{ page.excerpt | strip_html }}">
 	<!--
 	<meta name="twitter:image" value="" />
 	-->
