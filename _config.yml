@@ -1,6 +1,6 @@
 url: http://bryanhaggerty.com
 name: "Blog of Bryan Haggerty, User experience designer"
-permalink: /:categories/:year/:month/:title/
+permalink: /blog/:categories/:year/:month/:title/
 
 baseurl: /blog
 
