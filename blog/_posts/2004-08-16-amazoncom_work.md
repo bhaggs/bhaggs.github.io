@@ -9,7 +9,7 @@ permalink: /2004/08/amazoncom_work/
 categories:
   - User Experience
 ---
- <img src="blog/wp-content/uploads/legacy/amazon-work.gif" alt="Amazon.com: Work In Progress" class="image-right" border="0" height="46" width="115" />I recently ordered a few books from Amazon and like many people have found them to be a great online store. While waiting for my packages to arrive I decided to check the status of my delivery. A lagged page load brought to my attention a few problems with Amazon and subsequently others upon investigation.
+ <img src="/blog/wp-content/uploads/legacy/amazon-work.gif" alt="Amazon.com: Work In Progress" class="image-right" border="0" height="46" width="115" />I recently ordered a few books from Amazon and like many people have found them to be a great online store. While waiting for my packages to arrive I decided to check the status of my delivery. A lagged page load brought to my attention a few problems with Amazon and subsequently others upon investigation.
 
 #### There is an ALTernative?
 

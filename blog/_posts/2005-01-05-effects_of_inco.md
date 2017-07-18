@@ -18,7 +18,7 @@ I recently came across a simple example of inconsistent form design at the [Sall
 The forgot user ID tool, shown below in Figure 1, is extremely straight forward. Clear instructions are provided to the user conveying what is needed from them and what will occur upon completing the form. The form&#8217;s action buttons located to the lower right give the user not only the ability to commit the request for retreiving his user ID by pressing _Submit_ but also an exit strategy with the _Cancel_ button.
 
 <p class="figure-centered">
-  <img src="blog/wp-content/uploads/legacy/salliemae-figure1.gif" alt="SallieMae Figure 1" height="237" width="450" /><br /> Figure 1
+  <img src="/blog/wp-content/uploads/legacy/salliemae-figure1.gif" alt="SallieMae Figure 1" height="237" width="450" /><br /> Figure 1
 </p>
 
 ### What They Got Wrong
@@ -30,7 +30,7 @@ The user is then presented with two possible form actions, both of which do not 
 The use of Next as a form action is usually reserved for forms which have multiple form pages. While that may be the case for this form the user has no knowledge of that. If multiple form pages are going to be used, the user should be provided with such information. This can be in the form of stating that the form process has, for example, three steps.
 
 <p class="figure-centered">
-  <img src="blog/wp-content/uploads/legacy/salliemae-figure2.gif" alt="SallieMae Figure 2" height="209" width="450" /><br /> Figure 2
+  <img src="/blog/wp-content/uploads/legacy/salliemae-figure2.gif" alt="SallieMae Figure 2" height="209" width="450" /><br /> Figure 2
 </p>
 
 ### What This Can Lead To
