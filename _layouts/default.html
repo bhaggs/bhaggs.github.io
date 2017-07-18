@@ -47,12 +47,12 @@
 	</div>
 
 	<div id="pagination">
-		{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path }}" class="previous">&larr; Newer</a>
-		{% endif %}
-		
 		{% if paginator.next_page %}
 		<a href="{{ paginator.next_page_path }}" class="next">Older &rarr;</a>
+		{% endif %}
+		
+		{% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page_path }}" class="previous">&larr; Newer</a>
 		{% endif %}
 	</div>
 </div>
