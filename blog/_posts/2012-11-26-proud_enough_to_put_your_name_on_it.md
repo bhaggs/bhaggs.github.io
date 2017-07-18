@@ -6,10 +6,7 @@ author: admin
 layout: post
 guid: http://bryanhaggerty.com/blog/?p=276
 permalink: /2012/11/proud_enough_to_put_your_name_on_it/
-"twitter:image":
-  - http://bryanhaggerty.com/blog/wp-content/uploads/2012/11/mac-128k-case-signatures.jpg
-categories:
-  - Uncategorized
+twitter_image: http://bryanhaggerty.com/blog/wp-content/uploads/2012/11/mac-128k-case-signatures.jpg
 ---
 With small teams, the output, whether it&#8217;s an app, web site or any other product, represents the people behind it and the tremendous amount of effort they expended to make it. And it&#8217;s common for those people to willingly put their name on it, taking accountability for what&#8217;s great and what needs to be improved.
 

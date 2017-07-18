@@ -19,12 +19,9 @@
 	<meta name="twitter:url" value="{{ site.url }}{{ page.url }}">
 	<meta name="twitter:title" value="{{ page.title }}">
 	<meta name="twitter:description" value="{{ page.excerpt | strip_html }}">
-	<!--
-	<meta name="twitter:image" value="" />
-	-->
+	{% if page.twitter_image %}<meta name="twitter:image" value="{{ page.twitter_image }}" />{% endif %}
 	
 	<link rel="stylesheet" href="/blog/assets/style.css" type="text/css" media="screen" />
-	<!-- <link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> RSS Feed" href="<?php bloginfo('rss2_url'); ?>" /> -->
 	<link rel="icon" type="image/gif" href="/blog/images/favicon.gif" />
 	
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

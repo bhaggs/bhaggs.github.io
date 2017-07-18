@@ -6,10 +6,7 @@ author: admin
 layout: post
 guid: http://losingcontext.com/?p=246
 permalink: /2010/02/joining_twitter/
-"twitter:image":
-  - http://bryanhaggerty.com/blog/wp-content/uploads/2010/02/twitter-offer.jpg
-categories:
-  - Uncategorized
+twitter_image: http://bryanhaggerty.com/blog/wp-content/uploads/2010/02/twitter-offer.jpg
 ---
 <img src="http://bryanhaggerty.com/blog/wp-content/uploads/2010/02/twitter-offer.jpg" alt="Twitter Offer" width="600" height="343" class="image-centered" />
 
