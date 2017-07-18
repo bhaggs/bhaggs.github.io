@@ -5,7 +5,7 @@ date: 2006-04-06T18:09:08+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2006/04/the_design_challenge.php
-permalink: /2006/04/the_design_chal/
+permalink: /blog/2006/04/the_design_chal/
 categories:
   - Design
 ---

@@ -5,7 +5,7 @@ date: 2009-12-23T10:16:02+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/?p=188
-permalink: /2009/12/linkedin_iphone_app_in_new_york_times_illustrations/
+permalink: /blog/2009/12/linkedin_iphone_app_in_new_york_times_illustrations/
 categories:
   - Uncategorized
 ---

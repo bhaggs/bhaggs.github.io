@@ -5,7 +5,7 @@ date: 2005-02-27T16:03:36+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/02/a_look_at_google_maps.php
-permalink: /2005/02/google_maps/
+permalink: /blog/2005/02/google_maps/
 categories:
   - Technology
 ---

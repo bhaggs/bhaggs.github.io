@@ -5,7 +5,7 @@ date: 2005-03-30T14:18:43+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/03/myneu_listens_to_feedback.php
-permalink: /2005/03/myneu_listens_t/
+permalink: /blog/2005/03/myneu_listens_t/
 categories:
   - User Experience
 ---

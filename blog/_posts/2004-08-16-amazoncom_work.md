@@ -5,7 +5,7 @@ date: 2004-08-16T00:28:47+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/08/amazoncom_work_in_progress.php
-permalink: /2004/08/amazoncom_work/
+permalink: /blog/2004/08/amazoncom_work/
 categories:
   - User Experience
 ---

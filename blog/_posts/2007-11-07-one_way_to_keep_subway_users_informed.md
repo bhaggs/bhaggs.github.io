@@ -5,7 +5,7 @@ date: 2007-11-07T14:55:08+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/11/one_way_to_keep_subway_users_informed.php
-permalink: /2007/11/one_way_to_keep_subway_users_informed/
+permalink: /blog/2007/11/one_way_to_keep_subway_users_informed/
 categories:
   - User Experience
 ---

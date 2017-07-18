@@ -5,7 +5,7 @@ date: 2007-12-19T14:38:17+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/12/connecting_bookstore_shelves_and_book_lookup_systems.php
-permalink: /2007/12/connecting_bookstore_shelves_and_book_lookup_systems/
+permalink: /blog/2007/12/connecting_bookstore_shelves_and_book_lookup_systems/
 categories:
   - Books
   - User Experience

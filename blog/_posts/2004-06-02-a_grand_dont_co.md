@@ -5,7 +5,7 @@ date: 2004-06-02T22:14:10+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/06/a_grand_dont_come_for_free.php
-permalink: /2004/06/a_grand_dont_co/
+permalink: /blog/2004/06/a_grand_dont_co/
 categories:
   - Music
 ---

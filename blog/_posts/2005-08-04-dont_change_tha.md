@@ -5,7 +5,7 @@ date: 2005-08-04T20:58:48+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/08/dont_change_that_dial.php
-permalink: /2005/08/dont_change_tha/
+permalink: /blog/2005/08/dont_change_tha/
 categories:
   - User Experience
 ---

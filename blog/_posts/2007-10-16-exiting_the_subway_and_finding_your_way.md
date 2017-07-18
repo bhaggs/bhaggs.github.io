@@ -5,7 +5,7 @@ date: 2007-10-16T15:45:54+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/10/exiting_the_subway_and_finding_your_way.php
-permalink: /2007/10/exiting_the_subway_and_finding_your_way/
+permalink: /blog/2007/10/exiting_the_subway_and_finding_your_way/
 categories:
   - Design
   - User Experience

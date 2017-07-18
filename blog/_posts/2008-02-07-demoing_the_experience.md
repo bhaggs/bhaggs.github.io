@@ -5,7 +5,7 @@ date: 2008-02-07T00:48:40+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2008/02/demoing_the_experience.php
-permalink: /2008/02/demoing_the_experience/
+permalink: /blog/2008/02/demoing_the_experience/
 twitter_image: http://bryanhaggerty.com/blog/wp-content/uploads/2008/02/apple-iphone.jpg
 ---
 One of the most common ways to sell a customer on a product is to allow them to engage the user experience themselves&#8211;the _try before you buy_ approach. It&#8217;s why electronics stores have rows and rows of TVs, sound proof stereo listening rooms, video game demo stations, and plenty more. Whether the customer makes a purchase or not, he has gotten a taste for that product, which will resonate far more than any product photo or video could.

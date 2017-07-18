@@ -5,7 +5,7 @@ date: 2007-07-13T13:34:10+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2007/07/the_ia_portfolio_dilemma.php
-permalink: /2007/07/the_ia_portfoli/
+permalink: /blog/2007/07/the_ia_portfoli/
 categories:
   - Work
 ---

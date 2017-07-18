@@ -5,7 +5,7 @@ date: 2007-08-14T19:55:58+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/08/mac_people_japan.php
-permalink: /2007/08/mac_people_japan/
+permalink: /blog/2007/08/mac_people_japan/
 categories:
   - Etc.
   - Personal

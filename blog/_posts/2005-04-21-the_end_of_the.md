@@ -5,7 +5,7 @@ date: 2005-04-21T14:10:37+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/04/the_end_of_the_northeastern_era.php
-permalink: /2005/04/the_end_of_the/
+permalink: /blog/2005/04/the_end_of_the/
 categories:
   - Personal
 ---

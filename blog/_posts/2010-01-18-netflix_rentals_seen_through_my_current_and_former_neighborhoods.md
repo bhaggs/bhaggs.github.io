@@ -5,7 +5,7 @@ date: 2010-01-18T19:15:59+00:00
 author: admin
 layout: post
 guid: http://losingcontext.com/?p=234
-permalink: /2010/01/netflix_rentals_seen_through_my_current_and_former_neighborhoods/
+permalink: /blog/2010/01/netflix_rentals_seen_through_my_current_and_former_neighborhoods/
 categories:
   - Uncategorized
 ---

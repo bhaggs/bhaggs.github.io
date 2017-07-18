@@ -5,7 +5,7 @@ date: 2005-03-12T15:40:41+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/03/conveying_information_visually.php
-permalink: /2005/03/conveying_infor/
+permalink: /blog/2005/03/conveying_infor/
 categories:
   - User Experience
 ---

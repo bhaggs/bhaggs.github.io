@@ -5,7 +5,7 @@ date: 2005-11-20T13:00:38+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/11/adding_scent_to_pagination.php
-permalink: /2005/11/adding_scent_to/
+permalink: /blog/2005/11/adding_scent_to/
 categories:
   - User Experience
 ---

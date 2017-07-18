@@ -5,7 +5,7 @@ date: 2005-06-28T13:55:13+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/06/ive_been_robbed.php
-permalink: /2005/06/ive_been_robbed/
+permalink: /blog/2005/06/ive_been_robbed/
 categories:
   - Personal
 ---

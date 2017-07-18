@@ -5,7 +5,7 @@ date: 2005-03-01T20:21:50+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/03/rss_its_overload_and_the_web_browser.php
-permalink: /2005/03/rss_its_overloa/
+permalink: /blog/2005/03/rss_its_overloa/
 categories:
   - Technology
 ---

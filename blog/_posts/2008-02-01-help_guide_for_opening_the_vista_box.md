@@ -5,7 +5,7 @@ date: 2008-02-01T12:16:58+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2008/02/help_guide_for_opening_the_vista_box.php
-permalink: /2008/02/help_guide_for_opening_the_vista_box/
+permalink: /blog/2008/02/help_guide_for_opening_the_vista_box/
 categories:
   - Technology
   - User Experience

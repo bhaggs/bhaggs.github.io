@@ -5,7 +5,7 @@ date: 2004-08-09T10:44:13+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/08/taking_on_css.php
-permalink: /2004/08/taking_on_css/
+permalink: /blog/2004/08/taking_on_css/
 categories:
   - Design
 ---

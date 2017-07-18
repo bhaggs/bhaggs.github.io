@@ -5,7 +5,7 @@ date: 2005-05-02T13:49:01+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/05/guiding_the_user_with_contextual_help.php
-permalink: /2005/05/guiding_the_use/
+permalink: /blog/2005/05/guiding_the_use/
 categories:
   - User Experience
 ---

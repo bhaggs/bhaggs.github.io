@@ -5,7 +5,7 @@ date: 2004-07-27T12:53:02+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/07/buffalo_trip_part_2.php
-permalink: /2004/07/buffalo_trip_pa_1/
+permalink: /blog/2004/07/buffalo_trip_pa_1/
 categories:
   - Travel
 ---

@@ -5,7 +5,7 @@ date: 2007-05-29T14:21:22+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2007/05/gmaps_street_view_leaves_new_yorkers_with_much_to_desire.php
-permalink: /2007/05/gmaps_streetvie/
+permalink: /blog/2007/05/gmaps_streetvie/
 categories:
   - Technology
 ---

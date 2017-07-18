@@ -5,7 +5,7 @@ date: 2004-06-27T19:50:53+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/06/all_consuming_blogs_put_to_good_use.php
-permalink: /2004/06/all_consuming_b/
+permalink: /blog/2004/06/all_consuming_b/
 categories:
   - Books
 ---

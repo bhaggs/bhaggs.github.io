@@ -5,7 +5,7 @@ date: 2009-12-28T16:58:12+00:00
 author: admin
 layout: post
 guid: http://losingcontext.com/?p=205
-permalink: /2009/12/linkedin_30_for_iphone/
+permalink: /blog/2009/12/linkedin_30_for_iphone/
 categories:
   - Uncategorized
 ---

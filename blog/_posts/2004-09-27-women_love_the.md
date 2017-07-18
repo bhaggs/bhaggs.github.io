@@ -5,7 +5,7 @@ date: 2004-09-27T16:19:21+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/09/women_love_the_ipod_mini.php
-permalink: /2004/09/women_love_the/
+permalink: /blog/2004/09/women_love_the/
 categories:
   - Technology
 ---

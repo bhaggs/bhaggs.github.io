@@ -5,7 +5,7 @@ date: 2007-10-01T15:48:32+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/10/apple_of_my_eye.php
-permalink: /2007/10/apple_of_my_eye/
+permalink: /blog/2007/10/apple_of_my_eye/
 categories:
   - Culture
   - Technology

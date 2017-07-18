@@ -5,7 +5,7 @@ date: 2007-12-04T10:12:49+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/12/social_network_collectors_edition.php
-permalink: /2007/12/social_network_collectors_edition/
+permalink: /blog/2007/12/social_network_collectors_edition/
 categories:
   - Culture
   - User Experience

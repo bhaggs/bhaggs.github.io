@@ -5,7 +5,7 @@ date: 2007-11-29T15:53:21+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/11/little_things_in_ui_can_go_a_long_way.php
-permalink: /2007/11/little_things_in_ui_can_go_a_long_way/
+permalink: /blog/2007/11/little_things_in_ui_can_go_a_long_way/
 categories:
   - User Experience
 ---

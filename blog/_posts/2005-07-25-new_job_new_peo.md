@@ -5,7 +5,7 @@ date: 2005-07-25T11:11:34+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/07/new_job_new_people_new_york_city.php
-permalink: /2005/07/new_job_new_peo/
+permalink: /blog/2005/07/new_job_new_peo/
 categories:
   - New York
   - Personal

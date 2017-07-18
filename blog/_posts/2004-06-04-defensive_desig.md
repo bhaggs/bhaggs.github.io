@@ -5,7 +5,7 @@ date: 2004-06-04T16:26:22+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/06/defensive_design_for_the_web.php
-permalink: /2004/06/defensive_desig/
+permalink: /blog/2004/06/defensive_desig/
 categories:
   - Books
 ---

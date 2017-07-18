@@ -5,7 +5,7 @@ date: 2005-05-18T12:08:49+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/05/off_to_california.php
-permalink: /2005/05/off_to_californ/
+permalink: /blog/2005/05/off_to_californ/
 categories:
   - Travel
 ---

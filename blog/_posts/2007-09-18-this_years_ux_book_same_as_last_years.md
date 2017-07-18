@@ -5,7 +5,7 @@ date: 2007-09-18T16:13:07+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/09/this_years_ux_book_same_as_last_years.php
-permalink: /2007/09/this_years_ux_book_same_as_last_years/
+permalink: /blog/2007/09/this_years_ux_book_same_as_last_years/
 categories:
   - Books
   - User Experience

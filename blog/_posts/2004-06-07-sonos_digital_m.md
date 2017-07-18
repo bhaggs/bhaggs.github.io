@@ -5,7 +5,7 @@ date: 2004-06-07T11:33:04+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/06/sonos_digital_music_system.php
-permalink: /2004/06/sonos_digital_m/
+permalink: /blog/2004/06/sonos_digital_m/
 categories:
   - Technology
 ---

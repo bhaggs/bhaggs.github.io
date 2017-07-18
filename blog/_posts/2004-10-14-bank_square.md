@@ -5,7 +5,7 @@ date: 2004-10-14T19:03:41+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/10/bank_square.php
-permalink: /2004/10/bank_square/
+permalink: /blog/2004/10/bank_square/
 categories:
   - Etc.
 ---

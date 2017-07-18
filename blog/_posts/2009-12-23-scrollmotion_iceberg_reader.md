@@ -5,7 +5,7 @@ date: 2009-12-23T17:30:54+00:00
 author: admin
 layout: post
 guid: http://losingcontext.com/?p=196
-permalink: /2009/12/scrollmotion_iceberg_reader/
+permalink: /blog/2009/12/scrollmotion_iceberg_reader/
 categories:
   - Uncategorized
 ---

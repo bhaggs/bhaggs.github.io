@@ -5,7 +5,7 @@ date: 2004-07-21T17:47:53+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/07/off_to_buffalo.php
-permalink: /2004/07/off_to_buffalo/
+permalink: /blog/2004/07/off_to_buffalo/
 categories:
   - Travel
 ---

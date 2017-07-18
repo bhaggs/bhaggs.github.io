@@ -5,7 +5,7 @@ date: 2007-11-20T11:38:38+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/11/reducing_the_new_york_city_subway_map.php
-permalink: /2007/11/reducing_the_new_york_city_subway_map/
+permalink: /blog/2007/11/reducing_the_new_york_city_subway_map/
 categories:
   - Design
   - New York

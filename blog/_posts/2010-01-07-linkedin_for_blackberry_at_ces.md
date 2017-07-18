@@ -5,7 +5,7 @@ date: 2010-01-07T23:43:18+00:00
 author: admin
 layout: post
 guid: http://losingcontext.com/?p=216
-permalink: /2010/01/linkedin_for_blackberry_at_ces/
+permalink: /blog/2010/01/linkedin_for_blackberry_at_ces/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2004-06-10T15:34:06+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/06/ugoff_or_mugatu.php
-permalink: /2004/06/ugoff_or_mugatu/
+permalink: /blog/2004/06/ugoff_or_mugatu/
 categories:
   - Etc.
 ---

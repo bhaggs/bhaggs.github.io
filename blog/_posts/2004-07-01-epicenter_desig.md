@@ -5,7 +5,7 @@ date: 2004-07-01T13:20:34+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/07/epicenter_design_strategies.php
-permalink: /2004/07/epicenter_desig/
+permalink: /blog/2004/07/epicenter_desig/
 categories:
   - User Experience
 ---

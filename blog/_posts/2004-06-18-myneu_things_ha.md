@@ -5,7 +5,7 @@ date: 2004-06-18T12:26:18+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/06/myneu_things_have_only_gotten_worse.php
-permalink: /2004/06/myneu_things_ha/
+permalink: /blog/2004/06/myneu_things_ha/
 categories:
   - User Experience
 ---

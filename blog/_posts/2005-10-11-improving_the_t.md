@@ -5,7 +5,7 @@ date: 2005-10-11T21:14:13+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/10/improving_the_tag_cloud_through_color.php
-permalink: /2005/10/improving_the_t/
+permalink: /blog/2005/10/improving_the_t/
 categories:
   - User Experience
 ---

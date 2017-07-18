@@ -5,7 +5,7 @@ date: 2008-04-07T17:12:22+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/?p=153
-permalink: /2008/04/dying_maps_and_their_successors/
+permalink: /blog/2008/04/dying_maps_and_their_successors/
 categories:
   - Design
   - New York

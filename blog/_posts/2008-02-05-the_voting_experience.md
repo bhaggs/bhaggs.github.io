@@ -5,7 +5,7 @@ date: 2008-02-05T11:58:00+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2008/02/the_voting_experience.php
-permalink: /2008/02/the_voting_experience/
+permalink: /blog/2008/02/the_voting_experience/
 categories:
   - Politics
   - User Experience

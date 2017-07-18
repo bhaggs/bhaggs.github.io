@@ -5,7 +5,7 @@ date: 2004-07-13T00:28:46+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/07/up_up_down_down_left_right_left_right_b_a_select_start.php
-permalink: /2004/07/up_up_down_down/
+permalink: /blog/2004/07/up_up_down_down/
 categories:
   - Music
 ---

@@ -5,7 +5,7 @@ date: 2010-01-11T11:54:46+00:00
 author: admin
 layout: post
 guid: http://losingcontext.com/?p=222
-permalink: /2010/01/iphone_ui_testing_with_live_view_screencaster/
+permalink: /blog/2010/01/iphone_ui_testing_with_live_view_screencaster/
 categories:
   - Uncategorized
 ---

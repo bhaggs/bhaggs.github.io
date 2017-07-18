@@ -5,7 +5,7 @@ date: 2007-08-06T13:39:59+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/08/by_the_way_you_just_learned_how_to_click.php
-permalink: /2007/08/by_the_way_you_just_learned_how_to_click/
+permalink: /blog/2007/08/by_the_way_you_just_learned_how_to_click/
 categories:
   - Design
   - User Experience

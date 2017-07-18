@@ -5,7 +5,7 @@ date: 2006-03-31T19:00:34+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2006/03/mobile_monday_new_york.php
-permalink: /2006/03/mobile_mondays/
+permalink: /blog/2006/03/mobile_mondays/
 categories:
   - Design
 ---

@@ -5,7 +5,7 @@ date: 2008-02-07T16:27:06+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2008/02/interaction_08.php
-permalink: /2008/02/interaction_08/
+permalink: /blog/2008/02/interaction_08/
 categories:
   - Travel
   - User Experience

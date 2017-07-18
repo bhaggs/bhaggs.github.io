@@ -5,7 +5,7 @@ date: 2005-09-25T18:33:04+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/09/itunes_login_confusion.php
-permalink: /2005/09/itunes_login_co/
+permalink: /blog/2005/09/itunes_login_co/
 categories:
   - User Experience
 ---

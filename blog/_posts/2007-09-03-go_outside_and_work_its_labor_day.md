@@ -5,7 +5,7 @@ date: 2007-09-03T11:07:03+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/09/go_outside_and_work_its_labor_day.php
-permalink: /2007/09/go_outside_and_work_its_labor_day/
+permalink: /blog/2007/09/go_outside_and_work_its_labor_day/
 categories:
   - Culture
   - Politics

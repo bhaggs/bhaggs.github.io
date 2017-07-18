@@ -5,7 +5,7 @@ date: 2004-06-08T09:27:56+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/06/ohayou_gozaimasu.php
-permalink: /2004/06/ohayou_gozaimasu/
+permalink: /blog/2004/06/ohayou_gozaimasu/
 categories:
   - Etc.
 ---

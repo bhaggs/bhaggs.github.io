@@ -5,7 +5,7 @@ date: 2005-03-22T12:16:51+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/03/innovating_online_travel_sites.php
-permalink: /2005/03/innovating_onli/
+permalink: /blog/2005/03/innovating_onli/
 categories:
   - User Experience
 ---

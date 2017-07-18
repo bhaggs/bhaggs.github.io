@@ -5,7 +5,7 @@ date: 2008-01-31T12:35:43+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2008/01/configure_a_new_dell_in_38_easy_steps.php
-permalink: /2008/01/configure_a_new_dell_in_38_easy_steps/
+permalink: /blog/2008/01/configure_a_new_dell_in_38_easy_steps/
 categories:
   - Technology
   - User Experience

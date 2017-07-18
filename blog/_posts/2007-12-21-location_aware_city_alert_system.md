@@ -5,7 +5,7 @@ date: 2007-12-21T23:56:25+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/12/location_aware_city_alert_system.php
-permalink: /2007/12/location_aware_city_alert_system/
+permalink: /blog/2007/12/location_aware_city_alert_system/
 categories:
   - Ideas
   - New York

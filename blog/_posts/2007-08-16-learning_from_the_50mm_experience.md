@@ -5,7 +5,7 @@ date: 2007-08-16T13:20:21+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/08/learning_from_the_50mm_experience.php
-permalink: /2007/08/learning_from_the_50mm_experience/
+permalink: /blog/2007/08/learning_from_the_50mm_experience/
 categories:
   - Design
 ---

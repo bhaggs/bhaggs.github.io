@@ -5,7 +5,7 @@ date: 2005-03-25T18:25:21+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/03/augmenting_google_maps_with_landmarks.php
-permalink: /2005/03/augmenting_goog/
+permalink: /blog/2005/03/augmenting_goog/
 categories:
   - User Experience
 ---

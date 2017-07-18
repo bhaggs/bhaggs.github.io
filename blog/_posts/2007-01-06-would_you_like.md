@@ -5,7 +5,7 @@ date: 2007-01-06T14:01:41+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2007/01/would_you_like_a_receipt.php
-permalink: /2007/01/would_you_like/
+permalink: /blog/2007/01/would_you_like/
 categories:
   - Design
 ---

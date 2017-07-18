@@ -5,7 +5,7 @@ date: 2007-09-28T13:40:11+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/09/looking_back_at_futurism.php
-permalink: /2007/09/looking_back_at_futurism/
+permalink: /blog/2007/09/looking_back_at_futurism/
 categories:
   - Books
   - Design

@@ -5,7 +5,7 @@ date: 2004-11-07T15:38:24+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/11/the_misuse_of_the_pdf.php
-permalink: /2004/11/the_misuse_of_t/
+permalink: /blog/2004/11/the_misuse_of_t/
 categories:
   - User Experience
 ---

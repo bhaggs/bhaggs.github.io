@@ -5,7 +5,7 @@ date: 2004-12-21T20:03:30+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/12/doing_more_with_photos.php
-permalink: /2004/12/doing_more_with/
+permalink: /blog/2004/12/doing_more_with/
 categories:
   - Technology
 ---

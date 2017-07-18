@@ -5,7 +5,7 @@ date: 2007-09-26T16:18:13+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/09/drag_drop_but_not_there.php
-permalink: /2007/09/drag_drop_but_not_there/
+permalink: /blog/2007/09/drag_drop_but_not_there/
 categories:
   - Design
   - Technology

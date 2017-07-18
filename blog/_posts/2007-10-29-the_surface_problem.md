@@ -5,7 +5,7 @@ date: 2007-10-29T16:24:10+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/10/the_surface_problem.php
-permalink: /2007/10/the_surface_problem/
+permalink: /blog/2007/10/the_surface_problem/
 categories:
   - User Experience
   - Work

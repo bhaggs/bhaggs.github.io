@@ -5,7 +5,7 @@ date: 2008-05-23T09:49:58+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/?p=160
-permalink: /2008/05/rise_of_the_switch_control/
+permalink: /blog/2008/05/rise_of_the_switch_control/
 categories:
   - Design
   - User Experience

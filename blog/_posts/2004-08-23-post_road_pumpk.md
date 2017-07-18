@@ -5,7 +5,7 @@ date: 2004-08-23T21:40:47+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/08/post_road_pumpkin_ale.php
-permalink: /2004/08/post_road_pumpk/
+permalink: /blog/2004/08/post_road_pumpk/
 categories:
   - Etc.
 ---

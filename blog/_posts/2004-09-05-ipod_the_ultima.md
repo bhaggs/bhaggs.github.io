@@ -5,7 +5,7 @@ date: 2004-09-05T16:03:43+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/09/ipod_the_ultimate_dj.php
-permalink: /2004/09/ipod_the_ultima/
+permalink: /blog/2004/09/ipod_the_ultima/
 categories:
   - Music
 ---

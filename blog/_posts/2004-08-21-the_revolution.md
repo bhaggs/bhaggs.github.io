@@ -5,7 +5,7 @@ date: 2004-08-21T21:17:40+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/08/the_revolution_is_now.php
-permalink: /2004/08/the_revolution/
+permalink: /blog/2004/08/the_revolution/
 categories:
   - Books
   - Politics

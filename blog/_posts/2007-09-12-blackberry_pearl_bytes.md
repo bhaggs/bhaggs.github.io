@@ -5,7 +5,7 @@ date: 2007-09-12T13:39:35+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/09/blackberry_pearl_bytes.php
-permalink: /2007/09/blackberry_pearl_bytes/
+permalink: /blog/2007/09/blackberry_pearl_bytes/
 categories:
   - Technology
   - User Experience

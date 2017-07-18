@@ -5,7 +5,7 @@ date: 2007-09-04T21:56:13+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/09/the_core77_hack_2_school_guide_featuring_well_me.php
-permalink: /2007/09/the_core77_hack_2_school_guide_featuring_well_me/
+permalink: /blog/2007/09/the_core77_hack_2_school_guide_featuring_well_me/
 categories:
   - Personal
 ---

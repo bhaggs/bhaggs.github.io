@@ -5,7 +5,7 @@ date: 2004-10-28T16:04:50+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/10/myneu_problems_with_icon_design.php
-permalink: /2004/10/myneu_problems/
+permalink: /blog/2004/10/myneu_problems/
 categories:
   - User Experience
 ---

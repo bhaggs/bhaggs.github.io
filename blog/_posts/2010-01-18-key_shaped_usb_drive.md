@@ -5,7 +5,7 @@ date: 2010-01-18T09:54:04+00:00
 author: admin
 layout: post
 guid: http://losingcontext.com/?p=228
-permalink: /2010/01/key_shaped_usb_drive/
+permalink: /blog/2010/01/key_shaped_usb_drive/
 categories:
   - Uncategorized
 ---

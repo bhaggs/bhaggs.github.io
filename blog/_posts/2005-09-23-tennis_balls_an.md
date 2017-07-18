@@ -5,7 +5,7 @@ date: 2005-09-23T22:50:27+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/09/tennis_balls_and_walkers_an_ultimate_user_hack.php
-permalink: /2005/09/tennis_balls_an/
+permalink: /blog/2005/09/tennis_balls_an/
 categories:
   - Design
 ---

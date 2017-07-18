@@ -5,7 +5,7 @@ date: 2010-01-05T14:28:53+00:00
 author: admin
 layout: post
 guid: http://losingcontext.com/?p=209
-permalink: /2010/01/file_your_taxes_via_iphone/
+permalink: /blog/2010/01/file_your_taxes_via_iphone/
 categories:
   - Uncategorized
 ---

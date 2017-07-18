@@ -5,7 +5,7 @@ date: 2005-02-26T17:18:46+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/02/my_history_on_the_web.php
-permalink: /2005/02/my_history_on_t/
+permalink: /blog/2005/02/my_history_on_t/
 categories:
   - Design
 ---

@@ -5,7 +5,7 @@ date: 2004-06-14T13:34:01+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/06/if_i_help_wont_it_cost_less.php
-permalink: /2004/06/if_i_help_wont/
+permalink: /blog/2004/06/if_i_help_wont/
 categories:
   - Work
 ---

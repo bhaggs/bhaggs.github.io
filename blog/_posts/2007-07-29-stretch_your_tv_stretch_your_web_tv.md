@@ -5,7 +5,7 @@ date: 2007-07-29T18:40:00+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/07/stretch_your_tv_stretch_your_web_tv.php
-permalink: /2007/07/stretch_your_tv_stretch_your_web_tv/
+permalink: /blog/2007/07/stretch_your_tv_stretch_your_web_tv/
 categories:
   - Design
   - Media

@@ -5,7 +5,7 @@ date: 2004-07-30T16:46:58+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/07/dating_file_relaunch.php
-permalink: /2004/07/dating_file_rel/
+permalink: /blog/2004/07/dating_file_rel/
 categories:
   - Work
 ---

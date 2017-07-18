@@ -5,7 +5,7 @@ date: 2007-11-16T15:17:55+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/11/keep_to_the_right.php
-permalink: /2007/11/keep_to_the_right/
+permalink: /blog/2007/11/keep_to_the_right/
 categories:
   - Design
   - User Experience

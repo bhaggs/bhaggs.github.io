@@ -5,7 +5,7 @@ date: 2007-11-15T14:22:34+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/11/still_scratching_the_surface.php
-permalink: /2007/11/still_scratching_the_surface/
+permalink: /blog/2007/11/still_scratching_the_surface/
 categories:
   - User Experience
   - Work

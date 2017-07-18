@@ -5,7 +5,7 @@ date: 2007-08-31T16:08:06+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/08/you_need_to_be_mad_as_hell.php
-permalink: /2007/08/you_need_to_be_mad_as_hell/
+permalink: /blog/2007/08/you_need_to_be_mad_as_hell/
 categories:
   - Design
   - User Experience

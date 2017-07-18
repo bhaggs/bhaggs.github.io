@@ -5,7 +5,7 @@ date: 2007-12-03T16:34:33+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/12/subtle_user_alerts_at_the_grocery_store.php
-permalink: /2007/12/subtle_user_alerts_at_the_grocery_store/
+permalink: /blog/2007/12/subtle_user_alerts_at_the_grocery_store/
 categories:
   - Design
   - User Experience

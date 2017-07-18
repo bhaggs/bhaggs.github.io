@@ -5,7 +5,7 @@ date: 2004-07-16T15:07:11+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2004/07/the_new_age_of_software_development.php
-permalink: /2004/07/the_new_age_of/
+permalink: /blog/2004/07/the_new_age_of/
 categories:
   - Technology
 ---

@@ -5,7 +5,7 @@ date: 2007-08-01T12:05:06+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/08/the_art_of_being_ambiguous_while_recruiting.php
-permalink: /2007/08/the_art_of_being_ambiguous_while_recruiting/
+permalink: /blog/2007/08/the_art_of_being_ambiguous_while_recruiting/
 categories:
   - Work
 ---

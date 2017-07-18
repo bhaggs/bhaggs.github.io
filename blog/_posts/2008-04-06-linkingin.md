@@ -5,7 +5,7 @@ date: 2008-04-06T18:14:33+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/?p=154
-permalink: /2008/04/linkingin/
+permalink: /blog/2008/04/linkingin/
 categories:
   - Personal
   - San Francisco

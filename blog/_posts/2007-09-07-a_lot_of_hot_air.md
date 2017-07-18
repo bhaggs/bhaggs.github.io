@@ -5,7 +5,7 @@ date: 2007-09-07T15:06:32+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/09/a_lot_of_hot_air.php
-permalink: /2007/09/a_lot_of_hot_air/
+permalink: /blog/2007/09/a_lot_of_hot_air/
 categories:
   - Design
 ---

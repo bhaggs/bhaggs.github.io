@@ -6,7 +6,7 @@ author: admin
 excerpt: test
 layout: post
 guid: http://losingcontext.com/?p=238
-permalink: /2010/01/screenshot_management_with_littlesnapper/
+permalink: /blog/2010/01/screenshot_management_with_littlesnapper/
 categories:
   - Uncategorized
 ---

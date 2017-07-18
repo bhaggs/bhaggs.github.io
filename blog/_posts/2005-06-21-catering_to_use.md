@@ -5,7 +5,7 @@ date: 2005-06-21T18:47:22+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/06/catering_to_users_styles.php
-permalink: /2005/06/catering_to_use/
+permalink: /blog/2005/06/catering_to_use/
 categories:
   - Design
 ---

@@ -5,7 +5,7 @@ date: 2007-10-12T17:21:29+00:00
 author: bryan.haggerty
 layout: post
 guid: http://losingcontext.com/blog/2007/10/im_getting_a_little_tired_of_this.php
-permalink: /2007/10/im_getting_a_little_tired_of_this/
+permalink: /blog/2007/10/im_getting_a_little_tired_of_this/
 categories:
   - Music
 ---

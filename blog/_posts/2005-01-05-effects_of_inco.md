@@ -5,7 +5,7 @@ date: 2005-01-05T20:32:30+00:00
 author: bryan.haggerty
 layout: post
 guid: http://beta.losingcontext.com/blog/2005/01/an_example_of_inconsistent_poor_form_design.php
-permalink: /2005/01/effects_of_inco/
+permalink: /blog/2005/01/effects_of_inco/
 categories:
   - User Experience
 ---
