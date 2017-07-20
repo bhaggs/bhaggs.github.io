@@ -2,8 +2,6 @@ url: http://bryanhaggerty.com
 name: "Blog of Bryan Haggerty, User experience designer"
 permalink: /blog/:year/:month/:title/
 
-baseurl: /blog
-
 paginate: 5
 paginate_path: "/blog/page/:num"
 
