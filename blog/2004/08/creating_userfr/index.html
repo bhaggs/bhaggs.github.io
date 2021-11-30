@@ -1,0 +1,94 @@
+<!doctype html><html lang=en>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
+<meta name=robots content="all">
+<meta name=author content="Bryan Haggerty">
+<meta name=copyright content="Copyright (c) 2004-2021 Bryan Haggerty.">
+<meta name=description content="bryanhaggerty.com: online presensce of Bryan Haggerty, product design leader.">
+<meta name=keywords content="bryan haggerty,bryan,haggerty,user experience,ux,ui,design,product design,design leader,web3,crypto,bay area,san francisco,california">
+<meta name=twitter:card value=summary>
+<meta name=twitter:creator value=@bhaggs>
+<meta name=twitter:url value=http://bryanhaggerty.com/blog/2004/08/creating_userfr/>
+<meta name=twitter:title value="Creating User-Friendly URLs">
+<meta name=twitter:description value="The web is rampant with crude looking URLs largely due to the increase of dynamically generated web pages. Not only do these URLs look poor visually they decrease a site’s usability and become less attractive to search engines for ranking.
+I’ll take a look at why these URLs are a problem and how they can be fixed to present a friendlier user experience and improve your search rankings.
+Usability of URLs Ever try to tell someone a URL over the phone or attempt to write down a specific URL?">
+<link rel=icon type=image/gif href=/blog/images/favicon.gif>
+<link rel=alternate type=application/rss+xml title="Blog of Bryan Haggerty" href=/index.xml>
+<link rel=stylesheet href="https://fonts.googleapis.com/css?family=Lato|Major+Mono+Display|IBM+Plex+Mono">
+<link rel=stylesheet href=/styles.css type=text/css media=screen>
+<link rel=stylesheet href=/dark_mode.css type=text/css media=screen>
+<style>#blob{width:325px}</style>
+<script async src=//platform.twitter.com/widgets.js></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-81287-8"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','UA-81287-8')</script><title>Creating User-Friendly URLs &mdash; Bryan Haggerty, product design leader</title>
+</head>
+<body>
+<video autoplay muted loop playsinline poster=/home/blob-480.png id=blob>
+<source src=/home/blob-480.mp4 type=video/mp4>
+</video>
+<div id=header-container>
+<header id=header>
+<h1><a href=http://bryanhaggerty.com/>Bry<span>a</span>n<br> H<span>a</span>ggerty</a></h1>
+<p id=home-link><a href=http://bryanhaggerty.com/>Home</a></p>
+</header>
+</div>
+<div id=content-container>
+<main id=content>
+<article class=entry>
+<h2><a href=http://bryanhaggerty.com/blog/2004/08/creating_userfr/ rel=bookmark title="Permanent Link to Creating User-Friendly URLs">Creating User-Friendly URLs</a> <em class=publish-information>08-05-2004</em></h2>
+<p>The web is rampant with crude looking URLs largely due to the increase of dynamically generated web pages. Not only do these URLs look poor visually they decrease a site’s usability and become less attractive to search engines for ranking.</p>
+<p>I’ll take a look at why these URLs are a problem and how they can be fixed to present a friendlier user experience and improve your search rankings.</p>
+<h3 id=usability-of-urls>Usability of URLs</h3>
+<p>Ever try to tell someone a URL over the phone or attempt to write down a specific URL? Aside from the domain name, things can get real hairy after that first trailing slash. Somewhere along the line, we as developers have seemed to forget what the URL is supposed to tell the user.</p>
+<p>In basic terms, the URL is an address and we can learn a lot from comparing a URL to a street address. The street address has a structure which for the most part has been standardized and shows meaning in it’s presentation. I can read it off to a person over the phone and they too will understand it. I can also easily remember a street address as well.</p>
+<p>I’m not saying that we need to standardized our URL structure across the board but to remember that there is meaning in structure. The URL presents a hierarchy which informs users about the information which they are viewing.</p>
+<p>In working on <a href=http://www.thedatingfile.com title="Visit TheDatingFile.com">TheDatingFile.com</a> we had to deal with this very problem in particular. For example we used to have the URL shown below:</p>
+<p><code>http://www.thedatingfile.com/info.php?id=4&file=straight</code></p>
+<p>What does that mean? Not much to the user. Forget about attempting to type that in yourself from memory. Actually forget about even looking at it. Once the question marks and ampersands begin to appear it looks less like information and more like code.</p>
+<p>After implementing web server features, which I’ll discuss later, here is the result:</p>
+<p><code>http://www.thedatingfile.com/straight/yahoo/</code></p>
+<p>This URL now actually provides the user with some information. The hierarchy is used to present the user with not only a simple overview of the content of the page but also their location in the web site.</p>
+<p><strong>Further Reading:</strong></p>
+<ul>
+<li>Jakob Nielsen’s Alertbox <a href=http://www.useit.com/alertbox/990321.html>URL as UI</a></li>
+<li>Adam Baker’s Theory: <a href=http://www.merges.net/theory/20010305.html>How to make URLs user-friendly</a></li>
+<li>IBM DevelopWorks: <a href="http://www-106.ibm.com/developerworks/web/library/us-cranky8.html?dwzone=web">Making URLs accessible</a></li>
+</ul>
+<h3 id=search-engines-and-friendly-urls>Search Engines and Friendly URLs</h3>
+<p>Google says it best in their <a href=http://www.google.com/webmasters/2.html>Information For Webmasters</a>:</p>
+<blockquote cite=http://www.google.com/webmasters/2.html>
+<p>
+We are able to index dynamically generated pages. However, because our web crawler can easily overwhelm and crash sites serving dynamic content, we limit the amount of dynamic pages we index.
+</p>
+</blockquote>
+<p>Many search bots see dynamic pages as endless loops of links or blind alleys. Which many times is not the case. From a developer’s stand point, making dynamic pages can save tons of time but unfortunately search engines impose a penalty for that. Luckily there is a solution, Apache’s <a href=http://httpd.apache.org/docs/mod/mod_rewrite.html title="Learn more about mod_rewrite from Apache">mod_rewrite</a>.</p>
+<h3 id=make-your-urls-friendly>Make Your URLs Friendly</h3>
+<p>Mod_rewrite has a lot of features ranging from easy to implement to the more complex. Shown below is how we made our URLs for <a href=http://www.thedatingfile.com title="Visit TheDatingFile.com">TheDatingFile.com</a> more user-friendly and optimized for search engines.</p>
+<p>The following code is contained In our <code>.htaccess</code> file stored at the root level of the site:</p>
+<p><code>RewriteEngine On&lt;br /> RewriteRule ^(.*)/(.*)/$ /info.php?file=$1&shortname=$2 [L]</code></p>
+<p>A brief explanation of what is actually going on here. We start off by telling the Apache web server to turn on mod_rewrite. The <code>RewriteRule</code> is what will do all the work in transforming our URLs. “<code>^(.*)/(.*)/$</code>” is the format in which we wish to have our URLs displayed. “<code>(.*)</code>” will match anything and put the contents, starting with <code>$1</code>, into the variable (<code>file=$1</code>) of our real dynamically generated page.</p>
+<p><strong>Further Reading:</strong></p>
+<ul>
+<li>DevShed: <a href=http://www.devarticles.com/c/a/Web-Services/Make-Dynamic-URLs-Search-Engine-Friendly/>Make Dynamic URLs Search Engine Friendly</a></li>
+<li>Webmaster Toolkit: <a href=http://www.webmaster-toolkit.com/mod_rewrite-rewriterule-generator.shtml>mod_rewrite RewriteRule Generator</a></li>
+</ul>
+<br>
+</article>
+</main>
+</div>
+<div id=footer-container>
+<footer id=footer>
+<ul id=contact-links>
+<li><a href=https://twitter.com/bhaggs>@bhaggs</a></li>
+<li>bhaggs.eth</li>
+<li><script type=text/javascript>emailE='\u0062\u0072\u0079\u0061\u006e\u0040\u0062\u0072\u0079\u0061\u006e\u0068\u0061\u0067\u0067\u0065\u0072\u0074\u0079\u002e\u0063\u006f\u006d',document.write('<a href="mailto:'+emailE+'">\u0062\u0072\u0079\u0061\u006e\u0040\u0062\u0072\u0079\u0061\u006e\u0068\u0061\u0067\u0067\u0065\u0072\u0074\u0079\u002e\u0063\u006f\u006d</a>')</script></li>
+<li><a href=https://linkedin.com/in/bryanhaggerty>linkedin.com/in/bryanhaggerty</a></li>
+<li><a href=https://bhaggs.xyz>bhaggs.xyz</a> &mdash; <em>you're here</em></li>
+</ul>
+<p id=credits>Site built with <a href=https://gohugo.io/>Hugo</a>. Set in <a href=https://fonts.google.com/specimen/Major+Mono+Display>Major Mono</a>, <a href=https://fonts.google.com/specimen/IBM+Plex+Mono>IBM Plex Mono</a>, and <a href=https://fonts.google.com/specimen/Lato>Lato</a>. Blob by <a href=https://blobmixer.14islands.com>14islands</a>. <span>&copy; 2021</span></p>
+</footer>
+</div>
+</body>
+</html>

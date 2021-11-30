@@ -1,0 +1,34 @@
+@media (prefers-color-scheme: dark) {
+    #content-container {
+        background-color: #140030;
+    }
+
+    article.entry {
+        color: #fff;
+        border-bottom-color: #4F4064;
+    }
+
+    article.entry a { color: #fff; }
+    article.entry a:hover { color: #666; }
+
+    article.entry h2 a {
+        color: #fff;
+    }
+    
+    article.entry h2 em.publish-information {
+        color: #898098;
+    }
+
+    article.entry h4 {
+        color: #898098;
+    }
+
+    .figure-left img, .figure-centered img, .figure-right img, .image-left, .image-right, .image-centered {
+        border-color: #4F4064;
+        background-color: #fff;
+    }
+
+    .figure-left, .figure-centered, .figure-right {
+        color: #898098;
+    }
+}
