@@ -1,177 +1,52 @@
-<!doctype html><html lang=en>
-<head>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
-<meta name=robots content="all">
-<meta name=author content="Bryan Haggerty">
-<meta name=copyright content="Copyright (c) 2004-2021 Bryan Haggerty.">
-<meta name=description content="bryanhaggerty.com: online presensce of Bryan Haggerty, product design leader.">
-<meta name=keywords content="bryan haggerty,bryan,haggerty,user experience,ux,ui,design,product design,design leader,web3,crypto,bay area,san francisco,california">
-<meta name=twitter:card content="summary">
-<meta name=twitter:title content="Dating File Relaunch">
-<meta name=twitter:description content="FourSedgewick Interactive has been hard at work revamping The Dating File and bringing it back to life. After a long hiatus we’re ready to bring the site back with a souped up engine.
-The release brings along a new standards compliant design featuring XHTML 1.0 Transitional and CSS 2. As well as prominent use of PNGs and alpha-transparencies. In order to discuss the benefits of standards compliant design I’ve provided a bit of analysis between the version 4 site and the newly released version 5.">
-<meta name=twitter:site content="@bhaggs">
-<link rel=icon type=image/gif href=/blog/images/favicon.gif>
-<link rel=alternate type=application/rss+xml title="Blog of Bryan Haggerty" href=/index.xml>
-<link rel=stylesheet href="https://fonts.googleapis.com/css?family=Lato|Major+Mono+Display|IBM+Plex+Mono">
-<link rel=stylesheet href=/styles.css type=text/css media=screen>
-<link rel=stylesheet href=/dark_mode.css type=text/css media=screen>
-<style>#blob{width:325px}</style>
-<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-81287-8','auto'),ga('send','pageview'))</script>
-<script async src=//platform.twitter.com/widgets.js></script>
-<title>Dating File Relaunch &mdash; Bryan Haggerty, product design leader</title>
-</head>
-<body>
-<video autoplay muted loop playsinline poster=/home/blob-480.png id=blob>
-<source src=/home/blob-480.mp4 type=video/mp4>
-</video>
-<div id=header-container>
-<header id=header>
-<h1><a href=http://bryanhaggerty.com/>Bry<span>a</span>n<br> H<span>a</span>ggerty</a></h1>
-<p id=home-link><a href=http://bryanhaggerty.com/>Home</a></p>
-</header>
-</div>
-<div id=content-container>
-<main id=content>
-<article class=entry>
-<h2><a href=http://bryanhaggerty.com/blog/2004/07/dating_file_rel/ rel=bookmark title="Permanent Link to Dating File Relaunch">Dating File Relaunch</a> <em class=publish-information>07-30-2004</em></h2>
-<p><a href=http://www.thedatingfile.com title="Visit The Dating File.com"><img src=/blog/wp-content/uploads/legacy/new-tdf.jpg alt="The Dating File Revamped" class=image-right border=0 height=177 width=200></a> <a href=http://www.foursedgewick.com title="Visit the FourSedgewick Interactive web site">FourSedgewick Interactive</a> has been hard at work revamping <a href=http://www.thedatingfile.com title="Visit The Dating File.com">The Dating File</a> and bringing it back to life. After a long hiatus we’re ready to bring the site back with a souped up engine.</p>
-<p>The release brings along a new standards compliant design featuring XHTML 1.0 Transitional and CSS 2. As well as prominent use of <acronym title="Portable Network Graphics">PNGs</acronym> and alpha-transparencies. In order to discuss the benefits of standards compliant design I’ve provided a bit of analysis between the version 4 site and the newly released version 5.</p>
-<h4 id=the-challenges>The Challenges</h4>
-<p>Being an aggregator site visitors will only spend a short period of time at the site, they may even leave before it finishes loading. That was why we needed to trim down the download time but still keep the same look and feel.</p>
-<p><em>The Dating File</em> previously sported a table based layout for presentation. Which required a lot of slicing of images to get the desired look, which left us with severe image bloat. Not to mention wasted bits on non-structure tags used for presentation.</p>
-<p>The previous version featured unique <em>rank</em>, <em>star on</em>, <em>star off</em>, and <em>join</em> images. In order to get our color fade this was the only way possible since transparent gifs would suffer from rough edges.</p>
-<h4 id=the-solution>The Solution</h4>
-<p>The use of valid valid XHTML markup and CSS helped reduce the tag overload induced by using a totally table based layout. Separating presentation markup from structural markup also aided heavily in terms of <acronym title="Search Engine Optimization">SEO</acronym>. By presenting search engine spiders only with structurally marked upped content the site gets a better rating in terms of semantics. For instance our logo is actually an <code>h1</code> tag which has a higher ranking than say an <code>img</code> tag.</p>
-<p>In response to the excessive image use we capitalized on the features of the PNG format and its alpha-transparencies. The use of PNGs allowed us to trim 20 unique images down to just 4. Unfortunately our user base is primarily Win/IE users and alpha transparency images and Win/IE do not play well together. Fortunately Justin Koivisto’s <a href=http://www.koivi.com/ie-png-transparency/ title="Learn more about the IE PNG hack">IE PNG Hack</a> provided a nice workaround which did not affect other browsers which do display PNGs correctly.</p>
-<h4 id=the-results>The Results</h4>
-<p>Below is a comparison between the previous version and the current version in terms of download metrics.</p>
-<table border=0 cellspacing=0>
-<th>
-</th>
-<th>
-Version 4
-</th>
-<th>
-Version 5
-</th>
-<tr>
-<td>
-Size of webpage
-</td>
-<pre><code>&lt;td&gt;
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover"><meta name=robots content="all"><meta name=author content="Bryan Haggerty"><meta name=copyright content="Copyright (c) 2004-2022 Bryan Haggerty."><meta name=description content="bryanhaggerty.com: online presensce of Bryan Haggerty, product design leader."><meta name=keywords content="bryan haggerty,bryan,haggerty,user experience,ux,ui,design,product design,design leader,web3,crypto,bay area,san francisco,california"><meta name=twitter:card content="summary"><meta name=twitter:title content="Dating File Relaunch"><meta name=twitter:description content="FourSedgewick Interactive has been hard at work revamping The Dating File and bringing it back to life. After a long hiatus we’re ready to bring the site back with a souped up engine.
+The release brings along a new standards compliant design featuring XHTML 1.0 Transitional and CSS 2. As well as prominent use of PNGs and alpha-transparencies. In order to discuss the benefits of standards compliant design I’ve provided a bit of analysis between the version 4 site and the newly released version 5."><meta name=twitter:site content="@bhaggs"><link rel=icon type=image/gif href=/blog/images/favicon.gif><link rel=alternate type=application/rss+xml title="Blog of Bryan Haggerty" href=/index.xml><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Lato|Major+Mono+Display|IBM+Plex+Mono"><link rel=stylesheet href=/styles.css type=text/css media=screen><link rel=stylesheet href=/dark_mode.css type=text/css media=screen><style>#blob{width:325px}</style><script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(e,o,i,a,t,n,s){e.GoogleAnalyticsObject=t,e[t]=e[t]||function(){(e[t].q=e[t].q||[]).push(arguments)},e[t].l=1*new Date,n=o.createElement(i),s=o.getElementsByTagName(i)[0],n.async=1,n.src=a,s.parentNode.insertBefore(n,s)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-81287-8','auto'),ga('send','pageview'))</script><script async src=//platform.twitter.com/widgets.js></script><title>Dating File Relaunch &mdash; Bryan Haggerty, product design leader</title></head><body><video autoplay muted loop playsinline poster=/home/blob-480.png id=blob>
+<source src=/home/blob-480.mp4 type=video/mp4></video><div id=header-container><header id=header><h1><a href=http://bryanhaggerty.com/>Bry<span>a</span>n<br>H<span>a</span>ggerty</a></h1><p id=home-link><a href=http://bryanhaggerty.com/>Home</a></p></header></div><div id=content-container><main id=content><article class=entry><h2><a href=http://bryanhaggerty.com/blog/2004/07/dating_file_rel/ rel=bookmark title="Permanent Link to Dating File Relaunch">Dating File Relaunch</a> <em class=publish-information>07-30-2004</em></h2><p><a href=http://www.thedatingfile.com title="Visit The Dating File.com"><img src=/blog/wp-content/uploads/legacy/new-tdf.jpg alt="The Dating File Revamped" class=image-right border=0 height=177 width=200></a> <a href=http://www.foursedgewick.com title="Visit the FourSedgewick Interactive web site">FourSedgewick Interactive</a> has been hard at work revamping <a href=http://www.thedatingfile.com title="Visit The Dating File.com">The Dating File</a> and bringing it back to life. After a long hiatus we’re ready to bring the site back with a souped up engine.</p><p>The release brings along a new standards compliant design featuring XHTML 1.0 Transitional and CSS 2. As well as prominent use of <acronym title="Portable Network Graphics">PNGs</acronym> and alpha-transparencies. In order to discuss the benefits of standards compliant design I’ve provided a bit of analysis between the version 4 site and the newly released version 5.</p><h4 id=the-challenges>The Challenges</h4><p>Being an aggregator site visitors will only spend a short period of time at the site, they may even leave before it finishes loading. That was why we needed to trim down the download time but still keep the same look and feel.</p><p><em>The Dating File</em> previously sported a table based layout for presentation. Which required a lot of slicing of images to get the desired look, which left us with severe image bloat. Not to mention wasted bits on non-structure tags used for presentation.</p><p>The previous version featured unique <em>rank</em>, <em>star on</em>, <em>star off</em>, and <em>join</em> images. In order to get our color fade this was the only way possible since transparent gifs would suffer from rough edges.</p><h4 id=the-solution>The Solution</h4><p>The use of valid valid XHTML markup and CSS helped reduce the tag overload induced by using a totally table based layout. Separating presentation markup from structural markup also aided heavily in terms of <acronym title="Search Engine Optimization">SEO</acronym>. By presenting search engine spiders only with structurally marked upped content the site gets a better rating in terms of semantics. For instance our logo is actually an <code>h1</code> tag which has a higher ranking than say an <code>img</code> tag.</p><p>In response to the excessive image use we capitalized on the features of the PNG format and its alpha-transparencies. The use of PNGs allowed us to trim 20 unique images down to just 4. Unfortunately our user base is primarily Win/IE users and alpha transparency images and Win/IE do not play well together. Fortunately Justin Koivisto’s <a href=http://www.koivi.com/ie-png-transparency/ title="Learn more about the IE PNG hack">IE PNG Hack</a> provided a nice workaround which did not affect other browsers which do display PNGs correctly.</p><h4 id=the-results>The Results</h4><p>Below is a comparison between the previous version and the current version in terms of download metrics.</p><table border=0 cellspacing=0><th></th><th>Version 4</th><th>Version 5</th><tr><td>Size of webpage</td><pre><code>&lt;td&gt;
   19.3K
 &lt;/td&gt;
 
 &lt;td&gt;
   9.1K
 &lt;/td&gt;
-</code></pre>
-</tr>
-<tr>
-<td>
-Visible text size
-</td>
-<pre><code>&lt;td&gt;
+</code></pre></tr><tr><td>Visible text size</td><pre><code>&lt;td&gt;
   2.1K
 &lt;/td&gt;
 
 &lt;td&gt;
   1.2K
 &lt;/td&gt;
-</code></pre>
-</tr>
-<tr>
-<td>
-Size of html tags
-</td>
-<pre><code>&lt;td&gt;
+</code></pre></tr><tr><td>Size of html tags</td><pre><code>&lt;td&gt;
   17.2K
 &lt;/td&gt;
 
 &lt;td&gt;
   7.8K
 &lt;/td&gt;
-</code></pre>
-</tr>
-<tr>
-<td>
-Number of images
-</td>
-<pre><code>&lt;td&gt;
+</code></pre></tr><tr><td>Number of images</td><pre><code>&lt;td&gt;
   58
 &lt;/td&gt;
 
 &lt;td&gt;
   33
 &lt;/td&gt;
-</code></pre>
-</tr>
-<tr>
-<td>
-Unique images
-</td>
-<pre><code>&lt;td&gt;
+</code></pre></tr><tr><td>Unique images</td><pre><code>&lt;td&gt;
   45
 &lt;/td&gt;
 
 &lt;td&gt;
   10
 &lt;/td&gt;
-</code></pre>
-</tr>
-<tr>
-<td>
-Size of all images
-</td>
-<pre><code>&lt;td&gt;
+</code></pre></tr><tr><td>Size of all images</td><pre><code>&lt;td&gt;
   27K
 &lt;/td&gt;
 
 &lt;td&gt;
   12K
 &lt;/td&gt;
-</code></pre>
-</tr>
-<tr>
-<td>
-Grand total
-</td>
-<pre><code>&lt;td&gt;
+</code></pre></tr><tr><td>Grand total</td><pre><code>&lt;td&gt;
   46.4K
 &lt;/td&gt;
 
 &lt;td&gt;
   21.2K
 &lt;/td&gt;
-</code></pre>
-</tr>
-</table>
-<p>As can be seen from the grand total we’ve optimized the site by about <strong>46%</strong>! We’ve cut the download size almost in half, without compromising the visual display.</p>
-<p id=related-links>
-<strong>Related Links</strong>
-</p>
-<ul>
-<li><a href=http://www.losingcontext.com/portfolio/thedatingfile/>The Dating File portfolio entry</a></li>
-<li><a href=http://www.losingcontext.com/blog/2004/08/creating_userfr.php>Creating User-Friendly URLs</a></li>
-<li><a href=http://www.losingcontext.com/blog/2004/08/taking_on_css.php>Taking On CSS</a></li>
-</ul>
-<br>
-</article>
-</main>
-</div>
-<div id=footer-container>
-<footer id=footer>
-<ul id=contact-links>
-<li><a href=https://twitter.com/bhaggs>@bhaggs</a></li>
-<li>bhaggs.eth</li>
-<li><script type=text/javascript>emailE='\u0062\u0072\u0079\u0061\u006e\u0040\u0062\u0072\u0079\u0061\u006e\u0068\u0061\u0067\u0067\u0065\u0072\u0074\u0079\u002e\u0063\u006f\u006d',document.write('<a href="mailto:'+emailE+'">\u0062\u0072\u0079\u0061\u006e\u0040\u0062\u0072\u0079\u0061\u006e\u0068\u0061\u0067\u0067\u0065\u0072\u0074\u0079\u002e\u0063\u006f\u006d</a>')</script></li>
-<li><a href=https://linkedin.com/in/bryanhaggerty>linkedin.com/in/bryanhaggerty</a></li>
-<li><a href=http://bhaggs.xyz>bhaggs.xyz</a> &mdash; <em>you're here</em></li>
-</ul>
-<p id=credits>Site built with <a href=https://gohugo.io/>Hugo</a>. Set in <a href=https://fonts.google.com/specimen/Major+Mono+Display>Major Mono</a>, <a href=https://fonts.google.com/specimen/IBM+Plex+Mono>IBM Plex Mono</a>, and <a href=https://fonts.google.com/specimen/Lato>Lato</a>. Blob by <a href=https://blobmixer.14islands.com>14islands</a>. <span>&copy; 2021</span></p>
-</footer>
-</div>
-</body>
-</html>
+</code></pre></tr></table><p>As can be seen from the grand total we’ve optimized the site by about <strong>46%</strong>! We’ve cut the download size almost in half, without compromising the visual display.</p><p id=related-links><strong>Related Links</strong></p><ul><li><a href=http://www.losingcontext.com/portfolio/thedatingfile/>The Dating File portfolio entry</a></li><li><a href=http://www.losingcontext.com/blog/2004/08/creating_userfr.php>Creating User-Friendly URLs</a></li><li><a href=http://www.losingcontext.com/blog/2004/08/taking_on_css.php>Taking On CSS</a></li></ul><br></article></main></div><div id=footer-container><footer id=footer><ul id=contact-links><li><a href=https://twitter.com/bhaggs>@bhaggs</a></li><li>bhaggs.eth</li><li><script type=text/javascript>emailE='\u0062\u0072\u0079\u0061\u006e\u0040\u0062\u0072\u0079\u0061\u006e\u0068\u0061\u0067\u0067\u0065\u0072\u0074\u0079\u002e\u0063\u006f\u006d',document.write('<a href="mailto:'+emailE+'">\u0062\u0072\u0079\u0061\u006e\u0040\u0062\u0072\u0079\u0061\u006e\u0068\u0061\u0067\u0067\u0065\u0072\u0074\u0079\u002e\u0063\u006f\u006d</a>')</script></li><li><a href=https://linkedin.com/in/bryanhaggerty>linkedin.com/in/bryanhaggerty</a></li><li><a href=http://bhaggs.xyz>bhaggs.xyz</a> &mdash; <em>you're here</em></li></ul><p id=credits>Site built with <a href=https://gohugo.io/>Hugo</a>. Set in <a href=https://fonts.google.com/specimen/Major+Mono+Display>Major Mono</a>, <a href=https://fonts.google.com/specimen/IBM+Plex+Mono>IBM Plex Mono</a>, and <a href=https://fonts.google.com/specimen/Lato>Lato</a>. Blob by <a href=https://blobmixer.14islands.com>14islands</a>. <span>&copy; 2022</span></p></footer></div></body></html>
