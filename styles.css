@@ -38,7 +38,7 @@ table {
 	}
 }
 
-/* Handset */
+/* Mobile */
 @media only screen and (max-width: 767px) {
 	#blob {
 		top: -125px;
@@ -156,6 +156,10 @@ a:hover { text-decoration: underline; }
 	padding-right: calc(1em + env(safe-area-inset-right));
 	padding-left: calc(1em + env(safe-area-inset-left));
 	background-color: #fff;
+}
+
+#bio strong {
+	line-height: 175%;
 }
 
 div.photo img { border: 8px solid; }
