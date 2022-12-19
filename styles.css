@@ -341,7 +341,7 @@ article.entry code {
 }
 
 #contact-links {
-    margin: 30px 0;
+    margin: 50px 0;
 }
 
 #contact-links li {
@@ -361,12 +361,11 @@ article.entry code {
     text-decoration: underline;
 }
 
-#contact-links li:nth-child(1) { background-image: url('/home/twitter-badge.svg'); }
-#contact-links li:nth-child(2) { background-image: url('/home/mastodon-badge.svg'); }
-#contact-links li:nth-child(3) { background-image: url('/home/eth-badge.svg'); }
-#contact-links li:nth-child(4) { background-image: url('/home/email-badge.svg'); }
-#contact-links li:nth-child(5) { background-image: url('/home/linkedin-badge.svg'); }
-#contact-links li:nth-child(6) { background-image: url('/home/web-badge.svg'); }
+#contact-links li:nth-child(1) { background-image: url('/home/mastodon-badge.svg'); }
+#contact-links li:nth-child(2) { background-image: url('/home/twitter-badge.svg'); }
+#contact-links li:nth-child(3) { background-image: url('/home/email-badge.svg'); }
+#contact-links li:nth-child(4) { background-image: url('/home/linkedin-badge.svg'); }
+#contact-links li:nth-child(5) { background-image: url('/home/web-badge.svg'); }
 
 #credits {
 	display: inline-block;
