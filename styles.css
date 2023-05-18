@@ -84,7 +84,7 @@ body {
 	overflow-y: auto;
 
 	color: #BB99DD;
-	font: normal 100%/150% "IBM Plex Mono", "Courier New", Courier, monospace;
+	font: normal 100%/150% "IBM Plex Mono", monospace;
 
 	background-color:#330055;
 }
@@ -111,7 +111,7 @@ a:hover { text-decoration: underline; }
 }
 
 #header h1 {
-	font: normal 405%/100% "Major Mono Display", serif;
+	font: normal 405%/100% "Major Mono Display", monospace;
 	color: #fff;
 	text-transform: lowercase;
 }
@@ -169,7 +169,7 @@ article.entry {
 	position: relative;
 	margin: 2em 0;
 
-	font-family: Lato, Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #333;
 
 	border-bottom: 1px solid #e4e4e4;
@@ -201,7 +201,7 @@ article.entry h2 em.publish-information {
 	padding-left: 10px;
 	font-size: 65%;
 	font-style: normal;
-	font-family: "IBM Plex Mono", "Courier New", Courier, monospace;
+	font-family: "IBM Plex Mono", monospace;
 	color: #ccc;
 	white-space: nowrap;
 	letter-spacing: -0.05em;
